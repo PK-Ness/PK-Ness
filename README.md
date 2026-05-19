@@ -6,7 +6,7 @@
 - 🎯 Goals: Become a Full-Stack Developer
 - 🔭 I’m currently working on a Record Shop project that will put my backend and front end skills together;
 - 💬 Ask me about Chemistry, EFL Teaching and Pokémon. But I'd love to chat about Astronomy Quantum Mechanics!
-- 📫 How to reach me: mailto:sampaio_88#hotmail.com
+- 📫 How to reach me: mailto:sampaio_88@hotmail.com
 - ⚡ Fun fact: I have a background in Chemistry and I am very good at handcrafts.
 
 ## 🛠️ Tech Stack
