@@ -15,7 +15,9 @@
 - Tools: Git, Docker, PostMan, VSCode, Visual Studio, SSMS;
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PK-Ness&theme=tokyonight&show_icons=true&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pk-ness&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pk-ness&layout=compact&theme=tokyonight)
 ## 🔗 Connect with me
 - LinkedIn: https://linkedin.com/in/sampaiosamuel
