@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Sam
 
-<!--
-**PK-Ness/PK-Ness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 I’m a Junior Software/Web Developer
+- 🌱 Currently learning: Enterprise Engineering at Northcoders
+- 🎯 Goals: Become a Full-Stack Developer
+- 🔭 I’m currently working on a Record Shop project that will put my backend and front end skills together;
+- 💬 Ask me about Chemistry, EFL Teaching and Pokémon. But I'd love to chat about Astronomy Quantum Mechanics!
+- 📫 How to reach me: mailto:sampaio_88#hotmail.com
+- ⚡ Fun fact: I have a background in Chemistry and I am very good at handcrafts.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: HTML, CSS, JavaScript, C#;
+- Frameworks: Blazor;
+- Tools: Git, Docker, PostMan, VSCode, Visual Studio, SSMS;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🔗 Connect with me
+- LinkedIn: https://linkedin.com/in/sampaiosamuel
