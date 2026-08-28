@@ -8,7 +8,7 @@
 - 💬 We can talk for hours about games, tech, science and music. 
 
 ## 🛠️ Tech Stack
-- Languages: HTML, CSS, JavaScript, C#;
+- Languages: HTML, CSS, JavaScript, C#, SQL and Python (in progress)
 - Frameworks: Blazor;
 - Tools: Git, Docker, PostMan, VSCode, Visual Studio, SSMS;
 
